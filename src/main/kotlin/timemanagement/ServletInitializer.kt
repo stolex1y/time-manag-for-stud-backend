@@ -2,6 +2,7 @@ package timemanagement
 
 import org.springframework.boot.builder.SpringApplicationBuilder
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
+import timemanagement.config.DataSourceConfig
 
 class ServletInitializer : SpringBootServletInitializer() {
 
